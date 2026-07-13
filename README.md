@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./profile-banner.png" alt="Aneesh Gupta Banner" width="100%" style="border-radius: 8px;" />
+  <img src="./profile-banner-v2.png" alt="Aneesh Gupta Banner" width="100%" style="border-radius: 8px;" />
 
   # Hi there, I'm Aneesh Gupta (AndyDev94) 👋
   
