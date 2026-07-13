@@ -3,7 +3,7 @@
 
   # Hi there, I'm Aneesh Gupta (AndyDev94) 👋
   
-  ### 🎮 Indie Game Developer • 💻 Web Developer • 🐍 Python Programmer • 🎬 Video Editor
+  ### 🎮 Indie Game Developer • 💻 Full-Stack Web & App Developer • 🎬 Video Editor
   
   [![Website](https://img.shields.io/badge/Website-aneesh.co.in-0055ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aneesh.co.in)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-aneesh0-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aneesh0/)
@@ -16,16 +16,17 @@
 
 ### 📖 About Me
 
-I am a 20-year-old computer geek and student pursuing my **B. Tech in Computer Science and Engineering** (2023 - 2027) at Sandip University. As a passionate developer, programmer, and video editor, I enjoy taking on creative challenges and learning new technologies to build interactive experiences.
+I am a 20-year-old computer geek and student pursuing my **B. Tech in Computer Science and Engineering** (2023 - 2027) at Sandip University. As a passionate game developer, full-stack engineer, and video editor, I enjoy taking on creative challenges and building interactive, containerized applications.
 
 *   👥 **Vice President** at **SECT Open-Source Community**, a college club empowering students with technology.
 *   🕹️ Finished **15+ game projects** in Godot Engine, specializing in 2D/3D development, physics, light and shadow mechanics.
+*   💻 Full-Stack developer experienced in building web applications with **React** and **Node.js**, and containerizing services using **Docker**.
 *   🎬 Formally trained in video editing, having edited **100+ videos** and boosted client engagement by 25% (using DaVinci Resolve).
 *   🎨 Experienced in 3D Modeling (creating low-poly assets in Blender) and UI/UX design.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack & Tools
 
 <table align="center" width="100%">
   <tr>
@@ -35,23 +36,26 @@ I am a 20-year-old computer geek and student pursuing my **B. Tech in Computer S
       <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
     </td>
     <td align="center" width="25%" valign="top">
-      <h4>💻 Programming</h4>
+      <h4>💻 Languages</h4>
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /><br/>
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" /><br/>
       <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="GDScript" />
     </td>
     <td align="center" width="25%" valign="top">
-      <h4>🌐 Web Dev</h4>
+      <h4>🌐 Web & App Dev</h4>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /><br/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" /><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /><br/>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /><br/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /><br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
     </td>
     <td align="center" width="25%" valign="top">
-      <h4>🎬 Design & Tools</h4>
-      <img src="https://img.shields.io/badge/DaVinci%20Resolve-0A84C1?style=for-the-badge&logo=davinci-resolve&logoColor=white" alt="DaVinci Resolve" /><br/>
+      <h4>🔧 DevOps & Tools</h4>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /><br/>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /><br/>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /><br/>
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
     </td>
   </tr>
 </table>
