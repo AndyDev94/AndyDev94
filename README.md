@@ -16,7 +16,7 @@
 
 ### 📖 About Me
 
-I am a 20-year-old computer geek and student pursuing my **B. Tech in Computer Science and Engineering** (2023 - 2027) at Sandip University. As a passionate game developer, full-stack engineer, AI builder, and music creator, I enjoy taking on creative challenges and constructing interactive, sound-rich digital experiences.
+I am a 22-year-old Computer Science & Engineering major with a passion for game development, full-stack engineering, AI, and music production. I enjoy taking on creative challenges and building intelligent, sound-rich, and containerized applications.
 
 *   👥 **Vice President** at **SECT Open-Source Community**, a college club empowering students with technology.
 *   🕹️ Finished **15+ game projects** in Godot Engine, specializing in 2D/3D development, physics, light and shadow mechanics.
