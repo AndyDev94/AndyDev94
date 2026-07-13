@@ -99,5 +99,5 @@ Here are some of the key web applications, games, and mobile apps I've built:
 ---
 
 <div align="center">
-  <sub>Portfolio: <a href="https://aneesh.co.in">aneesh.co.in</a></sub>
+  <sub>Designed by Aneesh • Portfolio: <a href="https://aneesh.co.in">aneesh.co.in</a></sub>
 </div>
