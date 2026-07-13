@@ -77,21 +77,13 @@ Here are some of the key web applications, games, and mobile apps I've built:
 
 ---
 
-### 📊 GitHub Stats & Metrics
+### 📊 Developer Analytics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=AndyDev94&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="AndyDev94 Stats" height="150" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyDev94&layout=compact&theme=tokyonight&hide_border=true" alt="AndyDev94 Top Languages" height="150" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndyDev94&theme=tokyonight" alt="AndyDev94 Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndyDev94&theme=tokyonight" alt="AndyDev94 Top Languages" />
   
-  <br/>
+  <br/><br/>
   
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hide_border=true" alt="Daily Dev Joke" />
 </div>
