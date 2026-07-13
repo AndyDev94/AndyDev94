@@ -3,7 +3,7 @@
 
   # Hi there, I'm Aneesh Gupta (AndyDev94) 👋
   
-  ### 🎮 Indie Game Developer • 💻 Full-Stack Web & App Developer • 🤖 AI Integration Specialist
+  ### 🎮 Indie Game Developer • 💻 Full-Stack Web & App Developer • 🤖 AI & Music Producer
   
   [![Website](https://img.shields.io/badge/Website-aneesh.co.in-0055ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aneesh.co.in)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-aneesh0-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aneesh0/)
@@ -16,13 +16,13 @@
 
 ### 📖 About Me
 
-I am a 20-year-old computer geek and student pursuing my **B. Tech in Computer Science and Engineering** (2023 - 2027) at Sandip University. As a passionate game developer, full-stack engineer, and AI builder, I enjoy taking on creative challenges and constructing intelligent, containerized applications.
+I am a 20-year-old computer geek and student pursuing my **B. Tech in Computer Science and Engineering** (2023 - 2027) at Sandip University. As a passionate game developer, full-stack engineer, AI builder, and music creator, I enjoy taking on creative challenges and constructing interactive, sound-rich digital experiences.
 
 *   👥 **Vice President** at **SECT Open-Source Community**, a college club empowering students with technology.
 *   🕹️ Finished **15+ game projects** in Godot Engine, specializing in 2D/3D development, physics, light and shadow mechanics.
 *   💻 Full-Stack developer experienced in building web applications with **React** and **Node.js**, and containerizing services using **Docker**.
 *   🤖 Enthusiastic about **AI Innovations**, working with OpenAI APIs, LLM integrations, and building smart software.
-*   🎬 Formally trained in video editing, having edited **100+ videos** and boosted client engagement by 25% (using DaVinci Resolve).
+*   🎵 **Music & Video Production** creator. Formally trained in video editing, having edited **100+ videos** and boosted client engagement by 25% (using DaVinci Resolve) and engineered audio for meditation apps.
 *   🎨 Experienced in 3D Modeling (creating low-poly assets in Blender) and UI/UX design.
 
 ---
@@ -52,12 +52,12 @@ I am a 20-year-old computer geek and student pursuing my **B. Tech in Computer S
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
     </td>
     <td align="center" width="25%" valign="top">
-      <h4>🔧 AI, DevOps & Tools</h4>
+      <h4>🔧 AI, Music & Tools</h4>
       <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" /><br/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /><br/>
+      <img src="https://img.shields.io/badge/DaVinci%20Resolve-0A84C1?style=for-the-badge&logo=davinci-resolve&logoColor=white" alt="DaVinci Resolve" /><br/>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /><br/>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /><br/>
-      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </td>
   </tr>
 </table>
@@ -93,7 +93,7 @@ Here are some of the key web applications, games, and mobile apps I've built:
   
   <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndyDev94&theme=tokyonight&hide_border=true" alt="AndyDev94 Streak Stats" />
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hide_border=true" alt="Daily Dev Joke" />
 </div>
 
 ---
